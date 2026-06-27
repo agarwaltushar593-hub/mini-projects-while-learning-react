@@ -6,7 +6,8 @@ function App() {
       <div class="row">
         <div class="col-4">
           <input type="text" placeholder="enter To-do list" />
-        </div>
+        </div>   
+        
         <div class="col-2">
           <input type="date" />
         </div>
